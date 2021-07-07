@@ -1,2 +1,2 @@
-# 8values.github.io
-The 8values Political Quiz measures individuals' political values, including Equality, Nation, Liberty, Tradition, Markets, World, Authority, and Progress.
+# neoliberalvalues.github.io
+The neoliberalvalues Political Quiz measures individuals' political values, including Dove, Hawk, Redistribution, ???, Progress, Tradition, Paternalism, Liberty, Globalism, Nationalism, Radical, Moderate, Heterodox and Orthodox.
